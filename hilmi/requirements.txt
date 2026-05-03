@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+folium
+streamlit-folium
+pydantic
+httpx
+pandas
+scikit-learn
+prophet
+h3>=3.7.6
+rasterio
+numpy
+Pillow
