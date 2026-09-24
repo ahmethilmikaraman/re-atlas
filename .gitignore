@@ -1,0 +1,37 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment config
+.env
+.env.*
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Frontend dependencies and build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Project data and generated files
+data/cache/
+data/**/*.db
+*.sqlite3
+*.log
+*.tmp
+
+# Optional: ignore local runtime artifacts if generated
+*.db
